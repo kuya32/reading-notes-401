@@ -11,6 +11,7 @@
     - ```Amplify.addPlugin(new AWSCognitoAuthPlugin());```
     - ```Amplify.configure(getApplicationContext());```
   - Run lines from Main Activity’s onCreate method
+  
 ![Authentication Amplify](img/authAmplifyMainActivity.PNG)
 
 [Back to README](README.md)
